@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KratosTheOne&label=Profile%20views&color=0e75b6&style=flat" alt="KratosTheOne" /> <a href="https://github.com/KratosTheOne?tab=followers"><img src="https://img.shields.io/github/followers/KratosTheOne?label=Followers&style=social" alt="GitHub Badge"></a> </p>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/dtra4r7NXUlI5XRfOR/source.gif" />
+<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/dtra4r7NXUlI5XRfOR/source.gif" />
 
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me ....</h3>
 
