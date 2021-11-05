@@ -21,7 +21,9 @@
 
 - 📫 How to reach me **kaustubhsinha2001@gmail.com**
 
-- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1Ua4l_08mMxIkrobkFdxslfpMtUJclUeg/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kYGCj08DiXkk0uj3M0XkbZZD1uZvaaXc/view?usp=sharing)
+
+- 😉 Check my Design Portfolio (P.S Its something different) [Portfolio] (https://www.figma.com/file/VZrWHLWaJwWcloObq8pWB0/Portfolio?node-id=0%3A1)
 
 - ⚡ Remember **Rome wasn't built in a day**
 
