@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kYGCj08DiXkk0uj3M0XkbZZD1uZvaaXc/view?usp=sharing)
 
-- 😉 Check my Design Portfolio (P.S Its something different) [Portfolio] (https://www.figma.com/file/VZrWHLWaJwWcloObq8pWB0/Portfolio?node-id=0%3A1)
+- 😉 Check my Design Portfolio (P.S Its something different) [Portfolio](https://www.figma.com/file/VZrWHLWaJwWcloObq8pWB0/Portfolio)
 
 - ⚡ Remember **Rome wasn't built in a day**
 
