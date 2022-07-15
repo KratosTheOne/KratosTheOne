@@ -1,7 +1,7 @@
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kaustubh Sinha !!</h1>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h3 align="center">I am a Passionate UI/UX Designer and a Front-end Developer</h3>
+<h3 align="center">I am a Passionate Coder and love to learn and build new stuff.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KratosTheOne&label=Profile%20views&color=0e75b6&style=flat" alt="KratosTheOne" /> <a href="https://github.com/KratosTheOne?tab=followers"><img src="https://img.shields.io/github/followers/KratosTheOne?label=Followers&style=social" alt="GitHub Badge"></a> </p>
 
@@ -16,12 +16,12 @@
 
 - 🤝 I’m looking for help with **Reactsjs and React Native**
 
-- 💬 Ask me about **C++ , Figma and Adobe XD**
+- 💬 Ask me about **C++, React.js**
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 📫 How to reach me **kaustubhsinha2001@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kYGCj08DiXkk0uj3M0XkbZZD1uZvaaXc/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-xYmLHIyO4XIe2z4Y7DZSAdcnuEtucDA/view?usp=sharing)
 
 - 😉 Check my Design Portfolio (P.S Its something different) [Portfolio](https://www.figma.com/file/VZrWHLWaJwWcloObq8pWB0/Portfolio)
 
