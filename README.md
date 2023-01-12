@@ -23,8 +23,6 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-xYmLHIyO4XIe2z4Y7DZSAdcnuEtucDA/view?usp=sharing)
 
-- 😉 Check my Design Portfolio (P.S Its something different) [Portfolio](https://www.figma.com/file/VZrWHLWaJwWcloObq8pWB0/Portfolio)
-
 - ⚡ Remember **Rome wasn't built in a day**
 
 <h3 align="left">Connect with me:</h3>
