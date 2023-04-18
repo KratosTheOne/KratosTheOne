@@ -10,18 +10,16 @@
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me ....</h3>
 
 
-- 🌱 I’m currently learning **Reactjs, Redux and Figma**
+- 🌱 I’m currently learning **Reactjs, Redux and Nextjs**
 
 - 👯 I’m looking to collaborate on **Reactjs and UI/UX**
-
-- 🤝 I’m looking for help with **Reactsjs and React Native**
 
 - 💬 Ask me about **C++, React.js**
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 📫 How to reach me **kaustubhsinha2001@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-xYmLHIyO4XIe2z4Y7DZSAdcnuEtucDA/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1Djkzu_z-v1gPP7JqsMd_6N17VYw-6p3l?usp=sharing)
 
 - ⚡ Remember **Rome wasn't built in a day**
 
