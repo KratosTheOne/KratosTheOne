@@ -14,7 +14,6 @@
 
 - 👯 I’m looking to collaborate on **Reactjs and UI/UX**
 
-- 💬 Ask me about **C++, React.js**
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 📫 How to reach me **kaustubhsinha2001@gmail.com**
