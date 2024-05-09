@@ -8,7 +8,7 @@ I'm  Kaustubh Sinha 🌝. I have around 1 Year of professional experience in Sof
 
 I'm currently working as a SDE1 at TruEstate, a startup in the space of real estate and investing. I also worked as a Research Intern at Samsung, India. 
 
-I have a strong grasp of Data Structures and Algorithms and modern Frontend tecnologies like React, Redux, Next and Tailwind CSS.
+I have a strong grasp of Data Structures and Algorithms and modern Frontend technologies like React, Redux, Next and Tailwind CSS.
 
 ## My Experiences - 
 - Software Development Engineer 1 at TruEstate
